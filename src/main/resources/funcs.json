@@ -1,0 +1,1256 @@
+[
+  {
+    "name": "aria2.addUri",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "uris",
+        "second": "List<String>"
+      },
+      {
+        "first": "options",
+        "second": "Aria2Option"
+      },
+      {
+        "first": "position",
+        "second": "Int"
+      }
+    ],
+    "resultType": "Gid"
+  },
+  {
+    "name": "aria2.addUri",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "uris",
+        "second": "List<String>"
+      },
+      {
+        "first": "options",
+        "second": "Aria2Option"
+      }
+    ],
+    "resultType": "Gid"
+  },
+  {
+    "name": "aria2.addUri",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "uris",
+        "second": "List<String>"
+      }
+    ],
+    "resultType": "Gid"
+  },
+  {
+    "name": "aria2.addUri",
+    "params": [
+      {
+        "first": "uris",
+        "second": "List<String>"
+      },
+      {
+        "first": "options",
+        "second": "Aria2Option"
+      },
+      {
+        "first": "position",
+        "second": "Int"
+      }
+    ],
+    "resultType": "Gid"
+  },
+  {
+    "name": "aria2.addUri",
+    "params": [
+      {
+        "first": "uris",
+        "second": "List<String>"
+      },
+      {
+        "first": "options",
+        "second": "Aria2Option"
+      }
+    ],
+    "resultType": "Gid"
+  },
+  {
+    "name": "aria2.addUri",
+    "params": [
+      {
+        "first": "uris",
+        "second": "List<String>"
+      }
+    ],
+    "resultType": "Gid"
+  },
+  {
+    "name": "aria2.addTorrent",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "torrent",
+        "second": "Torrent"
+      },
+      {
+        "first": "uris",
+        "second": "List<String>"
+      },
+      {
+        "first": "options",
+        "second": "Aria2Option"
+      },
+      {
+        "first": "position",
+        "second": "Int"
+      }
+    ],
+    "resultType": "Gid"
+  },
+  {
+    "name": "aria2.addTorrent",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "torrent",
+        "second": "Torrent"
+      },
+      {
+        "first": "uris",
+        "second": "List<String>"
+      },
+      {
+        "first": "options",
+        "second": "Aria2Option"
+      }
+    ],
+    "resultType": "Gid"
+  },
+  {
+    "name": "aria2.addTorrent",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "torrent",
+        "second": "Torrent"
+      },
+      {
+        "first": "uris",
+        "second": "List<String>"
+      }
+    ],
+    "resultType": "Gid"
+  },
+  {
+    "name": "aria2.addTorrent",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "torrent",
+        "second": "Torrent"
+      }
+    ],
+    "resultType": "Gid"
+  },
+  {
+    "name": "aria2.addTorrent",
+    "params": [
+      {
+        "first": "torrent",
+        "second": "Torrent"
+      },
+      {
+        "first": "uris",
+        "second": "List<String>"
+      },
+      {
+        "first": "options",
+        "second": "Aria2Option"
+      },
+      {
+        "first": "position",
+        "second": "Int"
+      }
+    ],
+    "resultType": "Gid"
+  },
+  {
+    "name": "aria2.addTorrent",
+    "params": [
+      {
+        "first": "torrent",
+        "second": "Torrent"
+      },
+      {
+        "first": "uris",
+        "second": "List<String>"
+      },
+      {
+        "first": "options",
+        "second": "Aria2Option"
+      }
+    ],
+    "resultType": "Gid"
+  },
+  {
+    "name": "aria2.addTorrent",
+    "params": [
+      {
+        "first": "torrent",
+        "second": "Torrent"
+      },
+      {
+        "first": "uris",
+        "second": "List<String>"
+      }
+    ],
+    "resultType": "Gid"
+  },
+  {
+    "name": "aria2.addTorrent",
+    "params": [
+      {
+        "first": "torrent",
+        "second": "Torrent"
+      }
+    ],
+    "resultType": "Gid"
+  },
+  {
+    "name": "aria2.addMetalink",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "metalink",
+        "second": "Metalink"
+      },
+      {
+        "first": "options",
+        "second": "Aria2Option"
+      },
+      {
+        "first": "position",
+        "second": "Int"
+      }
+    ],
+    "resultType": "List<Gid>"
+  },
+  {
+    "name": "aria2.addMetalink",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "metalink",
+        "second": "Metalink"
+      },
+      {
+        "first": "options",
+        "second": "Aria2Option"
+      }
+    ],
+    "resultType": "List<Gid>"
+  },
+  {
+    "name": "aria2.addMetalink",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "metalink",
+        "second": "Metalink"
+      }
+    ],
+    "resultType": "List<Gid>"
+  },
+  {
+    "name": "aria2.addMetalink",
+    "params": [
+      {
+        "first": "metalink",
+        "second": "Metalink"
+      },
+      {
+        "first": "options",
+        "second": "Aria2Option"
+      },
+      {
+        "first": "position",
+        "second": "Int"
+      }
+    ],
+    "resultType": "List<Gid>"
+  },
+  {
+    "name": "aria2.addMetalink",
+    "params": [
+      {
+        "first": "metalink",
+        "second": "Metalink"
+      },
+      {
+        "first": "options",
+        "second": "Aria2Option"
+      }
+    ],
+    "resultType": "List<Gid>"
+  },
+  {
+    "name": "aria2.addMetalink",
+    "params": [
+      {
+        "first": "metalink",
+        "second": "Metalink"
+      }
+    ],
+    "resultType": "List<Gid>"
+  },
+  {
+    "name": "aria2.remove",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "gid",
+        "second": "Gid"
+      }
+    ],
+    "resultType": "Gid"
+  },
+  {
+    "name": "aria2.remove",
+    "params": [
+      {
+        "first": "gid",
+        "second": "Gid"
+      }
+    ],
+    "resultType": "Gid"
+  },
+  {
+    "name": "aria2.forceRemove",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "gid",
+        "second": "Gid"
+      }
+    ],
+    "resultType": "Gid"
+  },
+  {
+    "name": "aria2.forceRemove",
+    "params": [
+      {
+        "first": "gid",
+        "second": "Gid"
+      }
+    ],
+    "resultType": "Gid"
+  },
+  {
+    "name": "aria2.pause",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "gid",
+        "second": "Gid"
+      }
+    ],
+    "resultType": "Gid"
+  },
+  {
+    "name": "aria2.pause",
+    "params": [
+      {
+        "first": "gid",
+        "second": "Gid"
+      }
+    ],
+    "resultType": "Gid"
+  },
+  {
+    "name": "aria2.pauseAll",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      }
+    ],
+    "resultType": "Ok"
+  },
+  {
+    "name": "aria2.pauseAll",
+    "params": [],
+    "resultType": "Ok"
+  },
+  {
+    "name": "aria2.forcePause",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "gid",
+        "second": "Gid"
+      }
+    ],
+    "resultType": "Gid"
+  },
+  {
+    "name": "aria2.forcePause",
+    "params": [
+      {
+        "first": "gid",
+        "second": "Gid"
+      }
+    ],
+    "resultType": "Gid"
+  },
+  {
+    "name": "aria2.forcePauseAll",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      }
+    ],
+    "resultType": "Ok"
+  },
+  {
+    "name": "aria2.forcePauseAll",
+    "params": [],
+    "resultType": "Ok"
+  },
+  {
+    "name": "aria2.unpause",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "gid",
+        "second": "Gid"
+      }
+    ],
+    "resultType": "Gid"
+  },
+  {
+    "name": "aria2.unpause",
+    "params": [
+      {
+        "first": "gid",
+        "second": "Gid"
+      }
+    ],
+    "resultType": "Gid"
+  },
+  {
+    "name": "aria2.unpauseAll",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      }
+    ],
+    "resultType": "Ok"
+  },
+  {
+    "name": "aria2.unpauseAll",
+    "params": [],
+    "resultType": "Ok"
+  },
+  {
+    "name": "aria2.tellStatus",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "gid",
+        "second": "Gid"
+      },
+      {
+        "first": "keys",
+        "second": "Set<StatusField>"
+      }
+    ],
+    "resultType": "DownloadStatus"
+  },
+  {
+    "name": "aria2.tellStatus",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "gid",
+        "second": "Gid"
+      }
+    ],
+    "resultType": "DownloadStatus"
+  },
+  {
+    "name": "aria2.tellStatus",
+    "params": [
+      {
+        "first": "gid",
+        "second": "Gid"
+      },
+      {
+        "first": "keys",
+        "second": "Set<StatusField>"
+      }
+    ],
+    "resultType": "DownloadStatus"
+  },
+  {
+    "name": "aria2.tellStatus",
+    "params": [
+      {
+        "first": "gid",
+        "second": "Gid"
+      }
+    ],
+    "resultType": "DownloadStatus"
+  },
+  {
+    "name": "aria2.getUris",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "gid",
+        "second": "Gid"
+      }
+    ],
+    "resultType": "List<UriStatus>"
+  },
+  {
+    "name": "aria2.getUris",
+    "params": [
+      {
+        "first": "gid",
+        "second": "Gid"
+      }
+    ],
+    "resultType": "List<UriStatus>"
+  },
+  {
+    "name": "aria2.getFiles",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "gid",
+        "second": "Gid"
+      }
+    ],
+    "resultType": "List<FileInfo>"
+  },
+  {
+    "name": "aria2.getFiles",
+    "params": [
+      {
+        "first": "gid",
+        "second": "Gid"
+      }
+    ],
+    "resultType": "List<FileInfo>"
+  },
+  {
+    "name": "aria2.getPeers",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "gid",
+        "second": "Gid"
+      }
+    ],
+    "resultType": "List<PeerInfo>"
+  },
+  {
+    "name": "aria2.getPeers",
+    "params": [
+      {
+        "first": "gid",
+        "second": "Gid"
+      }
+    ],
+    "resultType": "List<PeerInfo>"
+  },
+  {
+    "name": "aria2.getServers",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "gid",
+        "second": "Gid"
+      }
+    ],
+    "resultType": "List<ServerInfo>"
+  },
+  {
+    "name": "aria2.getServers",
+    "params": [
+      {
+        "first": "gid",
+        "second": "Gid"
+      }
+    ],
+    "resultType": "List<ServerInfo>"
+  },
+  {
+    "name": "aria2.tellActive",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "keys",
+        "second": "Set<StatusField>"
+      }
+    ],
+    "resultType": "List<DownloadStatus>"
+  },
+  {
+    "name": "aria2.tellActive",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      }
+    ],
+    "resultType": "List<DownloadStatus>"
+  },
+  {
+    "name": "aria2.tellActive",
+    "params": [
+      {
+        "first": "keys",
+        "second": "Set<StatusField>"
+      }
+    ],
+    "resultType": "List<DownloadStatus>"
+  },
+  {
+    "name": "aria2.tellActive",
+    "params": [],
+    "resultType": "List<DownloadStatus>"
+  },
+  {
+    "name": "aria2.tellWaiting",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "offset",
+        "second": "Int"
+      },
+      {
+        "first": "num",
+        "second": "Int"
+      },
+      {
+        "first": "keys",
+        "second": "Set<StatusField>"
+      }
+    ],
+    "resultType": "List<DownloadStatus>"
+  },
+  {
+    "name": "aria2.tellWaiting",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "offset",
+        "second": "Int"
+      },
+      {
+        "first": "num",
+        "second": "Int"
+      }
+    ],
+    "resultType": "List<DownloadStatus>"
+  },
+  {
+    "name": "aria2.tellWaiting",
+    "params": [
+      {
+        "first": "offset",
+        "second": "Int"
+      },
+      {
+        "first": "num",
+        "second": "Int"
+      },
+      {
+        "first": "keys",
+        "second": "Set<StatusField>"
+      }
+    ],
+    "resultType": "List<DownloadStatus>"
+  },
+  {
+    "name": "aria2.tellWaiting",
+    "params": [
+      {
+        "first": "offset",
+        "second": "Int"
+      },
+      {
+        "first": "num",
+        "second": "Int"
+      }
+    ],
+    "resultType": "List<DownloadStatus>"
+  },
+  {
+    "name": "aria2.tellStopped",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "offset",
+        "second": "Int"
+      },
+      {
+        "first": "num",
+        "second": "Int"
+      },
+      {
+        "first": "keys",
+        "second": "Set<StatusField>"
+      }
+    ],
+    "resultType": "List<DownloadStatus>"
+  },
+  {
+    "name": "aria2.tellStopped",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "offset",
+        "second": "Int"
+      },
+      {
+        "first": "num",
+        "second": "Int"
+      }
+    ],
+    "resultType": "List<DownloadStatus>"
+  },
+  {
+    "name": "aria2.tellStopped",
+    "params": [
+      {
+        "first": "offset",
+        "second": "Int"
+      },
+      {
+        "first": "num",
+        "second": "Int"
+      },
+      {
+        "first": "keys",
+        "second": "Set<StatusField>"
+      }
+    ],
+    "resultType": "List<DownloadStatus>"
+  },
+  {
+    "name": "aria2.tellStopped",
+    "params": [
+      {
+        "first": "offset",
+        "second": "Int"
+      },
+      {
+        "first": "num",
+        "second": "Int"
+      }
+    ],
+    "resultType": "List<DownloadStatus>"
+  },
+  {
+    "name": "aria2.changePosition",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "gid",
+        "second": "Gid"
+      },
+      {
+        "first": "pos",
+        "second": "Int"
+      },
+      {
+        "first": "how",
+        "second": "PositionMethod"
+      }
+    ],
+    "resultType": "Int"
+  },
+  {
+    "name": "aria2.changePosition",
+    "params": [
+      {
+        "first": "gid",
+        "second": "Gid"
+      },
+      {
+        "first": "pos",
+        "second": "Int"
+      },
+      {
+        "first": "how",
+        "second": "PositionMethod"
+      }
+    ],
+    "resultType": "Int"
+  },
+  {
+    "name": "aria2.changeUri",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "gid",
+        "second": "Gid"
+      },
+      {
+        "first": "fileIndex",
+        "second": "Int"
+      },
+      {
+        "first": "delUris",
+        "second": "List<String>"
+      },
+      {
+        "first": "addUris",
+        "second": "List<String>"
+      },
+      {
+        "first": "position",
+        "second": "Int"
+      }
+    ],
+    "resultType": "UriChanges"
+  },
+  {
+    "name": "aria2.changeUri",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "gid",
+        "second": "Gid"
+      },
+      {
+        "first": "fileIndex",
+        "second": "Int"
+      },
+      {
+        "first": "delUris",
+        "second": "List<String>"
+      },
+      {
+        "first": "addUris",
+        "second": "List<String>"
+      }
+    ],
+    "resultType": "UriChanges"
+  },
+  {
+    "name": "aria2.changeUri",
+    "params": [
+      {
+        "first": "gid",
+        "second": "Gid"
+      },
+      {
+        "first": "fileIndex",
+        "second": "Int"
+      },
+      {
+        "first": "delUris",
+        "second": "List<String>"
+      },
+      {
+        "first": "addUris",
+        "second": "List<String>"
+      },
+      {
+        "first": "position",
+        "second": "Int"
+      }
+    ],
+    "resultType": "UriChanges"
+  },
+  {
+    "name": "aria2.changeUri",
+    "params": [
+      {
+        "first": "gid",
+        "second": "Gid"
+      },
+      {
+        "first": "fileIndex",
+        "second": "Int"
+      },
+      {
+        "first": "delUris",
+        "second": "List<String>"
+      },
+      {
+        "first": "addUris",
+        "second": "List<String>"
+      }
+    ],
+    "resultType": "UriChanges"
+  },
+  {
+    "name": "aria2.getOption",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "gid",
+        "second": "Gid"
+      }
+    ],
+    "resultType": "DownloadOptions"
+  },
+  {
+    "name": "aria2.getOption",
+    "params": [
+      {
+        "first": "gid",
+        "second": "Gid"
+      }
+    ],
+    "resultType": "DownloadOptions"
+  },
+  {
+    "name": "aria2.changeOption",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "gid",
+        "second": "Gid"
+      },
+      {
+        "first": "options",
+        "second": "Aria2Option"
+      }
+    ],
+    "resultType": "Ok"
+  },
+  {
+    "name": "aria2.changeOption",
+    "params": [
+      {
+        "first": "gid",
+        "second": "Gid"
+      },
+      {
+        "first": "options",
+        "second": "Aria2Option"
+      }
+    ],
+    "resultType": "Ok"
+  },
+  {
+    "name": "aria2.getGlobalOption",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      }
+    ],
+    "resultType": "DownloadOptions"
+  },
+  {
+    "name": "aria2.getGlobalOption",
+    "params": [],
+    "resultType": "DownloadOptions"
+  },
+  {
+    "name": "aria2.changeGlobalOption",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "options",
+        "second": "Aria2Option"
+      }
+    ],
+    "resultType": "Ok"
+  },
+  {
+    "name": "aria2.changeGlobalOption",
+    "params": [
+      {
+        "first": "options",
+        "second": "Aria2Option"
+      }
+    ],
+    "resultType": "Ok"
+  },
+  {
+    "name": "aria2.getGlobalStat",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      }
+    ],
+    "resultType": "GlobalStat"
+  },
+  {
+    "name": "aria2.getGlobalStat",
+    "params": [],
+    "resultType": "GlobalStat"
+  },
+  {
+    "name": "aria2.purgeDownloadResult",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      }
+    ],
+    "resultType": "Ok"
+  },
+  {
+    "name": "aria2.purgeDownloadResult",
+    "params": [],
+    "resultType": "Ok"
+  },
+  {
+    "name": "aria2.removeDownloadResult",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      },
+      {
+        "first": "gid",
+        "second": "Gid"
+      }
+    ],
+    "resultType": "Ok"
+  },
+  {
+    "name": "aria2.removeDownloadResult",
+    "params": [
+      {
+        "first": "gid",
+        "second": "Gid"
+      }
+    ],
+    "resultType": "Ok"
+  },
+  {
+    "name": "aria2.getVersion",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      }
+    ],
+    "resultType": "Version"
+  },
+  {
+    "name": "aria2.getVersion",
+    "params": [],
+    "resultType": "Version"
+  },
+  {
+    "name": "aria2.getSessionInfo",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      }
+    ],
+    "resultType": "SessionId"
+  },
+  {
+    "name": "aria2.getSessionInfo",
+    "params": [],
+    "resultType": "SessionId"
+  },
+  {
+    "name": "aria2.shutdown",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      }
+    ],
+    "resultType": "Ok"
+  },
+  {
+    "name": "aria2.shutdown",
+    "params": [],
+    "resultType": "Ok"
+  },
+  {
+    "name": "aria2.forceShutdown",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      }
+    ],
+    "resultType": "Ok"
+  },
+  {
+    "name": "aria2.forceShutdown",
+    "params": [],
+    "resultType": "Ok"
+  },
+  {
+    "name": "aria2.saveSession",
+    "params": [
+      {
+        "first": "secret",
+        "second": "Secret"
+      }
+    ],
+    "resultType": "Ok"
+  },
+  {
+    "name": "aria2.saveSession",
+    "params": [],
+    "resultType": "Ok"
+  },
+  {
+    "name": "api.system.multicall",
+    "params": [
+      {
+        "first": "methods",
+        "second": "null"
+      }
+    ],
+    "resultType": null
+  },
+  {
+    "name": "system.listMethods",
+    "params": [],
+    "resultType": "List<String>"
+  },
+  {
+    "name": "system.listNotifications",
+    "params": [],
+    "resultType": "List<String>"
+  },
+  {
+    "name": "aria2.onDownloadStart",
+    "params": [],
+    "resultType": null
+  },
+  {
+    "name": "aria2.onDownloadPause",
+    "params": [],
+    "resultType": null
+  },
+  {
+    "name": "aria2.onDownloadStop",
+    "params": [],
+    "resultType": null
+  },
+  {
+    "name": "aria2.onDownloadComplete",
+    "params": [],
+    "resultType": null
+  },
+  {
+    "name": "aria2.onDownloadError",
+    "params": [],
+    "resultType": null
+  },
+  {
+    "name": "aria2.onBtDownloadComplete",
+    "params": [],
+    "resultType": null
+  }
+]
